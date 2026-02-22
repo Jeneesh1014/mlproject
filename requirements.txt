@@ -9,4 +9,5 @@ xgboost
 lightgbm
 catboost
 mlflow
--e .
+dill
+# -e .
